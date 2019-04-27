@@ -1,3 +1,9 @@
+debootstrap (1.0.95ubuntu0.3ev3dev1) xenial; urgency=medium
+
+  * ev3dev takeover for xenial backport
+
+ -- David Lechner <david@lechnology.com>  Sat, 27 Apr 2019 01:02:04 -0500
+
 debootstrap (1.0.95ubuntu0.3) bionic; urgency=medium
 
   * For (Ubuntu) releases disco+ default to MERGED_USR=yes, -k extract
